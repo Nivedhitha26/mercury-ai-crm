@@ -1,7 +1,7 @@
 flask
-gunicorn
-joblib
+flask-cors
 scikit-learn
-numpy
-scipy
-threadpoolctl
+pandas
+openpyxl
+joblib
+gunicorn
